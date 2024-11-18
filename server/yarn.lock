@@ -5924,7 +5924,7 @@ __metadata:
 
 "rdf-dataset-fragmenter@file:./rdf-dataset-fragmenter.js::locator=server%40workspace%3A.":
   version: 2.7.1
-  resolution: "rdf-dataset-fragmenter@file:./rdf-dataset-fragmenter.js#./rdf-dataset-fragmenter.js::hash=a62e77&locator=server%40workspace%3A."
+  resolution: "rdf-dataset-fragmenter@file:./rdf-dataset-fragmenter.js#./rdf-dataset-fragmenter.js::hash=f58805&locator=server%40workspace%3A."
   dependencies:
     "@rdfjs/types": "npm:*"
     "@shexjs/parser": "npm:^1.0.0-alpha.28"
@@ -5946,7 +5946,7 @@ __metadata:
     relative-to-absolute-iri: "npm:^1.0.0"
   bin:
     rdf-dataset-fragmenter: bin/runner.js
-  checksum: 10/ac5b4bc7500140474b89e7e4a49884746fe1e00c2947f37237976b8f9457a1d301ef4cf9057867a9b9c2bdbcde64c62aae8cd14d68e1eb753cd0d48aab147f21
+  checksum: 10/2f101c8c1e692569238c4312f736662dabb8e999e52341be80d33563d2c288a6f16faf15511068e71e0fa848e19f6d2a9d14fe1c8be1d16184774a0beac0f65d
   languageName: node
   linkType: hard
 
