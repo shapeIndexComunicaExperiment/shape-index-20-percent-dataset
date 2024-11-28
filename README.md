@@ -1,4 +1,4 @@
-# Shape Index Solidbench Experiment with Comunica where 20% of the dataset has a shape index 
+# Shape Index Solidbench Experiment with Comunica where 20% of the datasets have a shape index 
 
 Experiments to benchmark solidbench queries using the shape index approach, where 20% of the datasets expose a shape index.
 The queries are available in the `./queries` directory.
